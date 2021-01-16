@@ -18,6 +18,7 @@ public class WishMessage {
 	public static int mul(int x, int y)
 
 	{
+		System.out.println("Mul Method inside Devloper Exclispe");
 		return x * y;
 	}
 }

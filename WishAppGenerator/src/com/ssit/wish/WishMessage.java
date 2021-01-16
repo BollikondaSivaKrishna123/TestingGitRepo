@@ -16,8 +16,8 @@ public class WishMessage {
 	}
 
 	public static int mul(int x, int y)
-
 	{
+		System.out.println("Multiplication  Code !!");
 		return x * y;
 	}
 }
